@@ -1,4 +1,6 @@
 import streamlit as st
+import numpy as np
+
 st.title("Proyecto Módulo I Fundamentals")
 st.sidebar.title("Parámetros")
 st.image("Image20260709220550.png")
