@@ -12,6 +12,6 @@ if modulo == "Modulo Listas":
   st.write(lista_numerica)
 elif modulo == "Modulo Array":
   st.write("Hola")
-else
+else:
   st.write("Hola2")
   
