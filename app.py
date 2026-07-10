@@ -1,8 +1,8 @@
 import streamlit as st
 st.title("Proyecto Módulo I Fundamentals")
 st.sidebar.title("Parámetros")
-st.image("Image20260709220523.png")
-st.sidebar.image("Image20260709220550.png")
+st.image("Image20260709220550.png")
+st.sidebar.image("Image20260709220523.png")
 
 modulo = st.sidebar.selectbox("Elija modulo",["Modulo Listas","Modulo Array","Modulo Funciones"])
 if modulo == "Modulo Listas":
