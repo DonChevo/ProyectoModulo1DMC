@@ -2,6 +2,8 @@ import streamlit as st
 import numpy as np
 import libreria_funciones as lf
 
+st.session_state
+
 st.title("Proyecto Módulo I Fundamentals")
 st.sidebar.title("Parámetros")
 st.image("Image20260709220550.png")
